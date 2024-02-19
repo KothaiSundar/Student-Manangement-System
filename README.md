@@ -34,8 +34,8 @@ This project utilizes Spring Boot for the backend, ReactJS for the frontend, MyS
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KothaiSundar/Student-Management-System.git
+   git clone https://github.com/KothaiSundar/Student-Manangement-System-BackEnd.git
 
 2. Clone the Frontend repository:
    ```bash
-   git clone https://github.com/KothaiSundar/student-management-system.git
+   git clone https://github.com/KothaiSundar/Student-Manangement-System-FrontEnd.git
